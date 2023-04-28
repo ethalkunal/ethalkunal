@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am currently studying Cyber Security and Digital Science, <br>
 while also increasing my programming skills. 
-Shoot me an Email or add me on Linkedin
+Shoot me an Email✉️ or add me on Linkedin
 
 
 ## 🌐 Socials:
