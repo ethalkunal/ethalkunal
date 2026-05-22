@@ -39,7 +39,7 @@ Open to **Werkstudent, internship, and graduate SOC / OT-security / compliance r
 ## 🚀 Featured projects
 
 - **[LitReviewAgents](https://github.com/ethalkunal/LitReviewAgents)** — multi-agent literature search and synthesis pipeline for academic manuscripts. YAML-driven, runs locally with Ollama or any OpenAI-compatible endpoint. MIT licensed.
-- **[personal-soc-dashboard](https://github.com/ethalkunal/personal-soc-dashboard)** — Power BI SOC dashboard with star schema, DAX measures covering MTTD / MTTR / CVSS, and MITRE ATT&CK mapping.
+- **[personal-soc-dashboard](https://github.com/ethalkunal/personal-soc-dashboard)** — Containerized SOC dashboard built on the ELK Stack (Elasticsearch, Logstash, Kibana) and Docker Compose. Generates synthetic syslog events, parses them through a Logstash Grok pipeline, and visualises login attempts, file operations, and alerts in Kibana.
 
 ## 📜 Certifications
 eJPT · DFE (Digital Forensics Essentials) · Google Cybersecurity Professional Certificate · EC-Council credentials · GCP Skills Boost badges · Azure Fundamentals
