@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Kunal
 
-I'm a final-semester **MSc Cybersecurity** student at **SRH University of Applied Sciences Berlin**, working on a thesis around a *Generalized Security-Layer Partitioning Framework for IoT*.
-
 My focus is **SOC engineering, OT/ICS security, and compliance automation** — building things that move teams from manual log-chasing to evidence-driven detection. I work mostly in Python, KQL, and the Microsoft Sentinel / Power BI stack, with a soft spot for local LLM tooling for research workflows.
 
 Open to **Werkstudent, internship, and graduate SOC / OT-security / compliance roles** across Germany and the wider EU.
