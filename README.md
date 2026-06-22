@@ -2,7 +2,7 @@
 
 My focus is **SOC engineering, OT/ICS security, and compliance automation** — building things that move teams from manual log-chasing to evidence-driven detection. I work mostly in Python, KQL, and the Microsoft Sentinel / Power BI stack, with a soft spot for local LLM tooling for research workflows.
 
-Open to **Werkstudent, internship, and graduate SOC / OT-security / compliance roles** across Germany and the wider EU.
+Open to ** Internship, and graduate SOC / OT-security / compliance roles** across Germany and the wider EU.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal~gawande/)
